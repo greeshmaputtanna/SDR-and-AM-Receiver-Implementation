@@ -1,8 +1,6 @@
 # SDR-and-AM-Receiver-Implementation
 
 
-## Part 1:
-
 ### Overview
 This project involves capturing RF signals using a Software Defined Radio (SDR) module and analyzing the signals in MATLAB. The project is divided into two main parts:
 - Signal Capturing with SDR and GQRX
@@ -41,8 +39,3 @@ This project involves capturing RF signals using a Software Defined Radio (SDR) 
    
 4. **Plot Spectrogram**  
    - Plot the spectrogram of the recorded signal.
-
-
-## Part 2: AM Receiver Assignment
-
-In this part of the project, we will build an AM receiver using MATLAB.
