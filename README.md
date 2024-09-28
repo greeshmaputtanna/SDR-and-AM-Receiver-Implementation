@@ -42,7 +42,6 @@ This project involves capturing RF signals using a Software Defined Radio (SDR) 
 4. **Plot Spectrogram**  
    - Plot the spectrogram of the recorded signal.
 
---
 
 ## Part 2: AM Receiver Assignment
 
